@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to Backend stack and related technologies                                                                                                                                                                                                                                                                                                          
 - ⚡ Fun fact: I use tabs over spaces  
    </td >
-    <td ><img src="" align="right" style="height: 145"  /></td>
+    <td ><img src="https://github.com/abhijitdesai28/abhijitdesai28/blob/main/codeGif.gif" align="right" style="height: 50%" /></td>
    </tr>
   </table>
 
