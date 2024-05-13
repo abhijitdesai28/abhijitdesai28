@@ -2,8 +2,10 @@
 <div align="center">
 <img src="https://github.com/abhijitdesai28/abhijitdesai28/blob/main/banner.png" align="center" style="width: 100%" />
 </div>  
-  
-### <div align="center">I'm Abhijit, a full-time Backend Developer</div>  
+
+  <table >
+   <tr>
+    <td style="width: 50%">### <div align="center">I'm Abhijit, a full-time Backend Developer</div>  
   
 - 🔭 I’m currently working on Spring Boot  
   
@@ -11,11 +13,12 @@
 - 🌱 I’m currently learning AWS and Kubernetes  
   
 
-- ❓ Ask me about anything related to Backend stack and related technologies  
-  
-
+- ❓ Ask me about anything related to Backend stack and related technologies                                                                                                                                                                                                                                                                                                          
 - ⚡ Fun fact: I use tabs over spaces  
-  
+   </td >
+    <td ><img src="" align="right" style="height: 145"  /></td>
+   </tr>
+  </table>
 
 <br/>  
 
